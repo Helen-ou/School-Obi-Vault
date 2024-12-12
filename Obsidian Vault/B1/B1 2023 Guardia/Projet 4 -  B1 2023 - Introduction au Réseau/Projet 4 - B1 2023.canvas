@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ad10af3cf2db7d24","type":"file","file":"B1/B1 2023 Guardia/Projet 4 -  B1 2023 - Introduction au Réseau/Kick-Off + Livrables.md","x":-320,"y":-138,"width":760,"height":738,"color":"1"},
+		{"id":"9488106654100fa6","type":"file","file":"B1/B1 2023 Guardia/Projet 4 -  B1 2023 - Introduction au Réseau/Initiation au Réseau.md","x":760,"y":-880,"width":800,"height":898,"color":"5"},
+		{"id":"3257053675a6d570","type":"file","file":"B1/B1 2023 Guardia/Projet 4 -  B1 2023 - Introduction au Réseau/Activités.md","x":1960,"y":-169,"width":600,"height":689}
+	],
+	"edges":[
+		{"id":"d99af4bbb9fba607","fromNode":"ad10af3cf2db7d24","fromSide":"right","toNode":"9488106654100fa6","toSide":"left"},
+		{"id":"c584c9670a62b1a7","fromNode":"9488106654100fa6","fromSide":"right","toNode":"3257053675a6d570","toSide":"left"}
+	]
+}

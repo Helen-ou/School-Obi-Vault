@@ -1,0 +1,2 @@
+CV Objective 
+	As a first year student in cybersecurity deeply interested and invested in the subject, I specialise in consulting and teaching. I would like to work for a company which allow employees to work to their fullest potential.

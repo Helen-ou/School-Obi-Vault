@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "60a404ca13fc195b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe161889c2413c36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4153103dc83f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linkedin"
+            }
+          },
+          {
+            "id": "9c131a59648cd033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinkedinGPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LinkedinGPT"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec58d553ba3489e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b629b4eb195ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c3b77c319c6077",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "447baed96fb2a4e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "bc48131ba15db892",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.50260543823242
+  },
+  "right": {
+    "id": "07e797b513de8204",
+    "type": "split",
+    "children": [
+      {
+        "id": "7087ddadec45d38e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0eb9ce5585319de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour CTI"
+            }
+          },
+          {
+            "id": "0b61ab4e9cb14860",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de CTI"
+            }
+          },
+          {
+            "id": "067b36954f1de5a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "aa3ba5862c22c423",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de CTI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "9c131a59648cd033",
+  "lastOpenFiles": [
+    "linkedin.md",
+    "LinkedinGPT.md",
+    "11 12 can delete.md",
+    "CTF Time.md",
+    "CTI.md",
+    "Poste Linkedin.md",
+    "B2/OSINT Semaine 1.md",
+    "C/C Basics.md",
+    "Immersion B2/Immersion J1.md",
+    "Résumé Certif.md",
+    "B2/OSINT Tools.md",
+    "B2/Anglais/10 10.md",
+    "Presentation 7 10.md",
+    "Rwanda.md",
+    "Summarize Iphone thingy.md",
+    "TD Électronique.md",
+    "B1/ISR 2.md",
+    "Pasted image 20241112163526.png",
+    "19 11 2024.md",
+    "Reverse/Pwndbg/Commandes Sympas.md",
+    "Reverse/No Software Breakpoints.md",
+    "Reverse/Commandes utiles.md",
+    "B1/B1 2023 Guardia/Projet 4 -  B1 2023 - Introduction au Réseau/Initiation au Réseau.md",
+    "Reverse/Drapeau GLissant.md",
+    "C/C loops.md",
+    "C/C Arrays et Structs.md",
+    "Ranked Geopolitical Power.md",
+    "Reverse/Pwndbg",
+    "Reverse",
+    "Pasted image 20241112164659.png",
+    "B2/Anglais",
+    "B2",
+    "B1",
+    "Immersion B2",
+    "B1/B1 2023 Guardia/Projet 4 -  B1 2023 - Introduction au Réseau/Projet 4 - B1 2023.canvas",
+    "C - Copie.zip",
+    "C - Copie",
+    "B1/B1 2023 Guardia/Projet 10 - B1 2024 - Hardware & RE",
+    "B1/Image/Pasted image 20240318111548.png",
+    "B1/Introduction Pentest",
+    "Sans titre.canvas",
+    "B1/Image/Pasted image 20240103141746.png",
+    "B1/Image/pin_map-2.png",
+    "B1/Image/Pasted image 20231207114929.png",
+    "B1/Image/Pasted image 20231205133307.png",
+    "B1/Image/Pasted image 20231205152408.png",
+    "B1/Image/Pasted image 20231123102055.png",
+    "Pasted image 20231205133305.png",
+    "boop.canvas",
+    "Projet 5 - B1 2023.canvas",
+    "Sans titre 2.canvas",
+    "Sans titre 1.canvas"
+  ]
+}

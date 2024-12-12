@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "baseFontSize": 22,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false
+}
